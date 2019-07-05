@@ -1,3 +1,6 @@
 ### 2 BIMESTRE
-  > POOGab > bin/scr/ 
+  > POOGab > bin/com/martinez/gabrielly
+  
+  
+  * Projeto roda em java 7
   
